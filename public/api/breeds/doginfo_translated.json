@@ -1,0 +1,858 @@
+[
+  {
+    "id": 1,
+    "name": "Affenpinscher",
+    "temperament": "Testarudo, Curioso, Juguetón, Aventurero, Activo, Amante de la diversión"
+  },
+  {
+    "id": 2,
+    "name": "Afghan Hound",
+    "temperament": "Distante, Payaso, Digno, Independiente, Feliz"
+  },
+  {
+    "id": 3,
+    "name": "African Hunting Dog",
+    "temperament": "Salvaje, Trabajador, Responsable"
+  },
+  {
+    "id": 4,
+    "name": "Airedale Terrier",
+    "temperament": "Extrovertido, Amistoso, Alerta, Confiado, Inteligente, Valiente"
+  },
+  {
+    "id": 5,
+    "name": "Akbash Dog",
+    "temperament": "Leal, Independiente, Inteligente,  Brave"
+  },
+  {
+    "id": 6,
+    "name": "Akita",
+    "temperament": "Docile, Alerta,  Responsive, Digno,  Composed, Amistoso,  Receptive, Fiel, Valiente"
+  },
+  {
+    "id": 7,
+    "name": "Alapaha Blue Blood Bulldog",
+    "temperament": "Loving, Protector, Adiestrable, Responsable,  Responsible"
+  },
+  {
+    "id": 8,
+    "name": "Alaskan Husky",
+    "temperament": "Amistoso, Enérgico, Leal, Gentil, Confiado"
+  },
+  {
+    "id": 9,
+    "name": "Alaskan Malamute",
+    "temperament": "Amistoso, Cariñoso,  Devoted, Leal, Digno, Juguetón"
+  },
+  {
+    "id": 10,
+    "name": "American Bulldog",
+    "temperament": "Amistoso,  Assertive, Enérgico, Leal, Gentil, Confiado,  Dominant"
+  },
+  {
+    "id": 11,
+    "name": "American Bully",
+    "temperament": "Strong Willed, Testarudo, Amistoso, Payaso, Cariñoso, Leal, Obediente, Inteligente, Valiente"
+  },
+  {
+    "id": 12,
+    "name": "American Eskimo Dog",
+    "temperament": "Amistoso, Alerta, Reservado, Inteligente, Protector"
+  },
+  {
+    "id": 13,
+    "name": "American Eskimo Dog (Miniature)",
+    "temperament": "Amistoso, Alerta, Reservado, Inteligente, Protector"
+  },
+  {
+    "id": 14,
+    "name": "American Foxhound",
+    "temperament": "Amable, De buen carácter, Leal, Independiente, Inteligente,  Loving"
+  },
+  {
+    "id": 15,
+    "name": "American Pit Bull Terrier",
+    "temperament": "Strong Willed, Testarudo, Amistoso, Payaso, Cariñoso, Leal, Obediente, Inteligente, Valiente"
+  },
+  {
+    "id": 16,
+    "name": "American Staffordshire Terrier",
+    "temperament": "Tenacious, Amistoso,  Devoted, Leal,  Attentive, Valiente"
+  },
+  {
+    "id": 17,
+    "name": "American Water Spaniel",
+    "temperament": "Amistoso, Enérgico, Obediente, Inteligente, Protector, Adiestrable"
+  },
+  {
+    "id": 18,
+    "name": "Anatolian Shepherd Dog",
+    "temperament": "Steady, Atrevido, Independiente, Confiado, Inteligente,  Proud"
+  },
+  {
+    "id": 19,
+    "name": "Appenzeller Sennenhund",
+    "temperament": "Reliable,  Fearless, Enérgico, Animado,  Self-assured"
+  },
+  {
+    "id": 21,
+    "name": "Australian Cattle Dog",
+    "temperament": "Cautious, Enérgico, Leal, Obediente, Protector,  Brave"
+  },
+  {
+    "id": 22,
+    "name": "Australian Kelpie",
+    "temperament": "Amistoso, Enérgico, Alerta, Leal, Inteligente,  Eager"
+  },
+  {
+    "id": 23,
+    "name": "Australian Shepherd",
+    "temperament": "Good-natured, Cariñoso, Inteligente, Activo, Protector"
+  },
+  {
+    "id": 24,
+    "name": "Australian Terrier",
+    "temperament": "Vivaz, Alerta, Leal,  Companionable, Equilibrado, Valiente"
+  },
+  {
+    "id": 25,
+    "name": "Azawakh",
+    "temperament": "Distante, Cariñoso,  Attentive,  Rugged,  Fierce,  Refined"
+  },
+  {
+    "id": 26,
+    "name": "Barbet",
+    "temperament": "Obediente,  Companionable, Inteligente,  Joyful"
+  },
+  {
+    "id": 28,
+    "name": "Basenji",
+    "temperament": "Cariñoso, Enérgico, Alerta, Curioso, Juguetón, Inteligente"
+  },
+  {
+    "id": 29,
+    "name": "Basset Bleu de Gascogne",
+    "temperament": "Cariñoso, Animado,  Agile, Curioso, Feliz, Activo"
+  },
+  {
+    "id": 30,
+    "name": "Basset Hound",
+    "temperament": "Tenacious, Amistoso, Cariñoso,  Devoted, De buen carácter, Gentil"
+  },
+  {
+    "id": 31,
+    "name": "Beagle",
+    "temperament": "Amiable, Equilibrado,  Excitable,  Determined, Gentil, Inteligente"
+  },
+  {
+    "id": 32,
+    "name": "Bearded Collie",
+    "temperament": "Self-confidence,  Hardy, Animado, Alerta, Inteligente, Activo"
+  },
+  {
+    "id": 33,
+    "name": "Beauceron",
+    "temperament": "Fearless, Amistoso, Inteligente, Protector, Tranquilo"
+  },
+  {
+    "id": 34,
+    "name": "Bedlington Terrier",
+    "temperament": "Cariñoso, Vivaz, Inteligente,  Good-tempered"
+  },
+  {
+    "id": 36,
+    "name": "Belgian Malinois",
+    "temperament": "Watchful, Alerta, Testarudo, Amistoso, Confiado,  Hard-working, Activo, Protector"
+  },
+  {
+    "id": 38,
+    "name": "Belgian Tervuren",
+    "temperament": "Enérgico, Alerta, Leal, Inteligente,  Attentive, Protector"
+  },
+  {
+    "id": 41,
+    "name": "Bernese Mountain Dog",
+    "temperament": "Cariñoso, Leal, Inteligente, Fiel"
+  },
+  {
+    "id": 42,
+    "name": "Bichon Frise",
+    "temperament": "Feisty, Cariñoso, Alegre, Juguetón, Gentil, Sensible"
+  },
+  {
+    "id": 43,
+    "name": "Black and Tan Coonhound",
+    "temperament": "Easygoing, Gentil, Adaptable,  Trusting, Equilibrado,  Lovable"
+  },
+  {
+    "id": 45,
+    "name": "Bloodhound",
+    "temperament": "Testarudo, Cariñoso, Gentil, Equilibrado"
+  },
+  {
+    "id": 47,
+    "name": "Bluetick Coonhound",
+    "temperament": "Amistoso, Inteligente, Activo"
+  },
+  {
+    "id": 48,
+    "name": "Boerboel",
+    "temperament": "Obediente, Confiado, Inteligente,  Dominant,  Territorial"
+  },
+  {
+    "id": 50,
+    "name": "Border Collie",
+    "temperament": "Tenacious,  Keen, Enérgico,  Responsive, Alerta, Inteligente"
+  },
+  {
+    "id": 51,
+    "name": "Border Terrier",
+    "temperament": "Fearless, Cariñoso, Alerta, Obediente, Inteligente, Equilibrado"
+  },
+  {
+    "id": 53,
+    "name": "Boston Terrier",
+    "temperament": "Amistoso, Animado, Inteligente"
+  },
+  {
+    "id": 54,
+    "name": "Bouvier des Flandres",
+    "temperament": "Protector, Leal, Gentil, Inteligente,  Familial,  Rational"
+  },
+  {
+    "id": 55,
+    "name": "Boxer",
+    "temperament": "Devoted,  Fearless, Amistoso, Alegre, Enérgico, Leal, Juguetón, Confiado, Inteligente,  Bright,  Brave, Tranquilo"
+  },
+  {
+    "id": 56,
+    "name": "Boykin Spaniel",
+    "temperament": "Amistoso, Enérgico,  Companionable, Inteligente,  Eager, Adiestrable"
+  },
+  {
+    "id": 57,
+    "name": "Bracco Italiano",
+    "temperament": "Testarudo, Cariñoso, Leal, Juguetón,  Companionable, Adiestrable"
+  },
+  {
+    "id": 58,
+    "name": "Briard",
+    "temperament": "Fearless, Leal, Obediente, Inteligente, Fiel, Protector"
+  },
+  {
+    "id": 59,
+    "name": "Brittany",
+    "temperament": "Agile, Adaptable,  Quick, Inteligente,  Attentive, Feliz"
+  },
+  {
+    "id": 61,
+    "name": "Bull Terrier",
+    "temperament": "Adiestrable, Protector, De buen carácter,  Keen, Activo"
+  },
+  {
+    "id": 62,
+    "name": "Bull Terrier (Miniature)",
+    "temperament": "Adiestrable, Protector, De buen carácter,  Keen, Activo,  Territorial"
+  },
+  {
+    "id": 64,
+    "name": "Bullmastiff",
+    "temperament": "Docile,  Reliable,  Devoted, Alerta, Leal, Reservado,  Loving, Protector,  Powerful, Tranquilo, Valiente"
+  },
+  {
+    "id": 65,
+    "name": "Cairn Terrier",
+    "temperament": "Hardy,  Fearless,  Assertive,  Gay, Inteligente, Activo"
+  },
+  {
+    "id": 67,
+    "name": "Cane Corso",
+    "temperament": "Adiestrable, Reservado,  Stable, Callado, Equilibrado, Tranquilo"
+  },
+  {
+    "id": 68,
+    "name": "Cardigan Welsh Corgi",
+    "temperament": "Cariñoso,  Devoted, Alerta,  Companionable, Inteligente, Activo"
+  },
+  {
+    "id": 69,
+    "name": "Catahoula Leopard Dog",
+    "temperament": "Enérgico,  Inquisitive, Independiente, Gentil, Inteligente,  Loving"
+  },
+  {
+    "id": 70,
+    "name": "Caucasian Shepherd (Ovcharka)",
+    "temperament": "Alerta,  Quick,  Dominant,  Powerful, Tranquilo,  Strong"
+  },
+  {
+    "id": 71,
+    "name": "Cavalier King Charles Spaniel",
+    "temperament": "Fearless, Cariñoso,  Sociable, Paciente, Juguetón, Adaptable"
+  },
+  {
+    "id": 76,
+    "name": "Chesapeake Bay Retriever",
+    "temperament": "Cariñoso, Inteligente, Callado,  Dominant, Feliz, Protector"
+  },
+  {
+    "id": 78,
+    "name": "Chinese Crested",
+    "temperament": "Cariñoso, De buen carácter, Animado, Alerta, Juguetón, Feliz"
+  },
+  {
+    "id": 79,
+    "name": "Chinese Shar-Pei",
+    "temperament": "Suspicious, Cariñoso,  Devoted, Reservado, Independiente,  Loving"
+  },
+  {
+    "id": 80,
+    "name": "Chinook",
+    "temperament": "Amistoso, Alerta, Digno, Inteligente, Tranquilo"
+  },
+  {
+    "id": 81,
+    "name": "Chow Chow",
+    "temperament": "Distante, Leal, Independiente, Callado"
+  },
+  {
+    "id": 84,
+    "name": "Clumber Spaniel",
+    "temperament": "Cariñoso, Leal, Digno, Gentil, Tranquilo,  Great-hearted"
+  },
+  {
+    "id": 86,
+    "name": "Cocker Spaniel",
+    "temperament": "Adiestrable, Amistoso, Cariñoso, Juguetón, Callado, Fiel"
+  },
+  {
+    "id": 87,
+    "name": "Cocker Spaniel (American)",
+    "temperament": "Extrovertido,  Sociable,  Trusting,  Joyful, Equilibrado,  Merry"
+  },
+  {
+    "id": 89,
+    "name": "Coton de Tulear",
+    "temperament": "Cariñoso, Animado, Juguetón, Inteligente, Adiestrable,  Vocal"
+  },
+  {
+    "id": 92,
+    "name": "Dalmatian",
+    "temperament": "Extrovertido, Amistoso, Enérgico, Juguetón, Sensible, Inteligente, Activo"
+  },
+  {
+    "id": 94,
+    "name": "Doberman Pinscher",
+    "temperament": "Fearless, Enérgico, Alerta, Leal, Obediente, Confiado, Inteligente"
+  },
+  {
+    "id": 95,
+    "name": "Dogo Argentino",
+    "temperament": "Amistoso, Cariñoso, Alegre, Leal,  Tolerant, Protector"
+  },
+  {
+    "id": 98,
+    "name": "Dutch Shepherd",
+    "temperament": "Reliable, Cariñoso, Alerta, Leal, Obediente, Adiestrable"
+  },
+  {
+    "id": 101,
+    "name": "English Setter",
+    "temperament": "Strong Willed,  Mischievous, Cariñoso, Enérgico, Juguetón,  Companionable, Gentil,  Hard-working, Inteligente,  Eager,  People-Oriented"
+  },
+  {
+    "id": 102,
+    "name": "English Shepherd",
+    "temperament": "Amable, Enérgico, Independiente, Adaptable, Inteligente,  Bossy"
+  },
+  {
+    "id": 103,
+    "name": "English Springer Spaniel",
+    "temperament": "Cariñoso, Alegre, Alerta, Inteligente,  Attentive, Activo"
+  },
+  {
+    "id": 104,
+    "name": "English Toy Spaniel",
+    "temperament": "Cariñoso, Reservado, Juguetón, Gentil, Feliz,  Loving"
+  },
+  {
+    "id": 105,
+    "name": "English Toy Terrier",
+    "temperament": "Testarudo, Alerta,  Companionable, Inteligente,  Cunning, Adiestrable"
+  },
+  {
+    "id": 107,
+    "name": "Eurasier",
+    "temperament": "Alerta, Reservado, Inteligente, Equilibrado,  Watchful, Tranquilo"
+  },
+  {
+    "id": 108,
+    "name": "Field Spaniel",
+    "temperament": "Docile,  Cautious,  Sociable, Sensible, Adaptable,  Familial"
+  },
+  {
+    "id": 110,
+    "name": "Finnish Lapphund",
+    "temperament": "Amistoso,  Keen, Fiel, Tranquilo, Valiente"
+  },
+  {
+    "id": 111,
+    "name": "Finnish Spitz",
+    "temperament": "Juguetón, Leal, Independiente, Inteligente, Feliz,  Vocal"
+  },
+  {
+    "id": 113,
+    "name": "French Bulldog",
+    "temperament": "Juguetón, Cariñoso,  Keen,  Sociable, Animado, Alerta,  Easygoing, Paciente,  Athletic,  Bright"
+  },
+  {
+    "id": 114,
+    "name": "German Pinscher",
+    "temperament": "Vivaz, Animado, Inteligente,  Loving, Equilibrado,  Familial"
+  },
+  {
+    "id": 115,
+    "name": "German Shepherd Dog",
+    "temperament": "Alerta, Leal, Obediente, Curioso, Confiado, Inteligente,  Watchful, Valiente"
+  },
+  {
+    "id": 116,
+    "name": "German Shorthaired Pointer",
+    "temperament": "Boisterous, Atrevido, Cariñoso, Inteligente,  Cooperative, Adiestrable"
+  },
+  {
+    "id": 119,
+    "name": "Giant Schnauzer",
+    "temperament": "Strong Willed, Amable, Leal, Inteligente,  Dominant,  Powerful"
+  },
+  {
+    "id": 120,
+    "name": "Glen of Imaal Terrier",
+    "temperament": "Vivaz,  Agile, Leal, Gentil, Activo, Valiente"
+  },
+  {
+    "id": 121,
+    "name": "Golden Retriever",
+    "temperament": "Inteligente, Amable,  Reliable, Amistoso,  Trustworthy, Confiado"
+  },
+  {
+    "id": 123,
+    "name": "Gordon Setter",
+    "temperament": "Fearless, Alerta, Leal, Confiado,  Gay,  Eager"
+  },
+  {
+    "id": 124,
+    "name": "Great Dane",
+    "temperament": "Amistoso,  Devoted, Reservado, Gentil, Confiado,  Loving"
+  },
+  {
+    "id": 125,
+    "name": "Great Pyrenees",
+    "temperament": "Strong Willed,  Fearless, Cariñoso, Paciente, Gentil, Confiado"
+  },
+  {
+    "id": 127,
+    "name": "Greyhound",
+    "temperament": "Cariñoso,  Athletic, Gentil, Inteligente, Callado, Equilibrado"
+  },
+  {
+    "id": 128,
+    "name": "Griffon Bruxellois",
+    "temperament": "Self-important,  Inquisitive, Alerta,  Companionable, Sensible,  Watchful"
+  },
+  {
+    "id": 129,
+    "name": "Harrier",
+    "temperament": "Extrovertido, Amistoso, Alegre, De buen carácter,  Tolerant, Activo"
+  },
+  {
+    "id": 130,
+    "name": "Havanese",
+    "temperament": "Cariñoso,  Responsive, Juguetón,  Companionable, Gentil, Inteligente"
+  },
+  {
+    "id": 134,
+    "name": "Irish Setter",
+    "temperament": "Cariñoso, Enérgico, Animado, Independiente, Juguetón,  Companionable"
+  },
+  {
+    "id": 135,
+    "name": "Irish Terrier",
+    "temperament": "Respectful, Animado, Inteligente,  Dominant, Protector, Adiestrable"
+  },
+  {
+    "id": 137,
+    "name": "Irish Wolfhound",
+    "temperament": "De buen carácter, Leal, Digno, Paciente,  Thoughtful,  Generous"
+  },
+  {
+    "id": 138,
+    "name": "Italian Greyhound",
+    "temperament": "Mischievous, Cariñoso,  Agile,  Athletic,  Companionable, Inteligente"
+  },
+  {
+    "id": 140,
+    "name": "Japanese Chin",
+    "temperament": "Alerta, Leal, Independiente, Inteligente,  Loving,  Cat-like"
+  },
+  {
+    "id": 141,
+    "name": "Japanese Spitz",
+    "temperament": "Cariñoso, Obediente, Juguetón,  Companionable, Inteligente,  Proud"
+  },
+  {
+    "id": 142,
+    "name": "Keeshond",
+    "temperament": "Agile, Obediente, Juguetón,  Quick,  Sturdy,  Bright"
+  },
+  {
+    "id": 144,
+    "name": "Komondor",
+    "temperament": "Steady,  Fearless, Cariñoso, Independiente, Gentil, Tranquilo"
+  },
+  {
+    "id": 145,
+    "name": "Kooikerhondje",
+    "temperament": "Benevolent,  Agile, Alerta, Inteligente, Activo,  Territorial"
+  },
+  {
+    "id": 147,
+    "name": "Kuvasz",
+    "temperament": "Payaso, Leal, Paciente, Independiente, Inteligente, Protector"
+  },
+  {
+    "id": 149,
+    "name": "Labrador Retriever",
+    "temperament": "Amable, Extrovertido,  Agile, Gentil, Inteligente,  Trusting, Equilibrado"
+  },
+  {
+    "id": 151,
+    "name": "Lagotto Romagnolo",
+    "temperament": "Keen, Leal,  Companionable,  Loving, Activo, Adiestrable"
+  },
+  {
+    "id": 153,
+    "name": "Lancashire Heeler",
+    "temperament": "Clever, Amistoso, Alerta, Inteligente"
+  },
+  {
+    "id": 155,
+    "name": "Leonberger",
+    "temperament": "Obediente,  Fearless, Leal,  Companionable, Adaptable,  Loving"
+  },
+  {
+    "id": 156,
+    "name": "Lhasa Apso",
+    "temperament": "Steady,  Fearless, Amistoso,  Devoted,  Assertive, Vivaz, Enérgico, Animado, Alerta, Obediente, Juguetón, Inteligente"
+  },
+  {
+    "id": 161,
+    "name": "Maltese",
+    "temperament": "Juguetón,  Docile,  Fearless, Cariñoso, De buen carácter, Animado,  Responsive,  Easygoing, Gentil, Inteligente, Activo"
+  },
+  {
+    "id": 165,
+    "name": "Miniature American Shepherd",
+    "temperament": "Enérgico, Leal, Inteligente, Adiestrable"
+  },
+  {
+    "id": 167,
+    "name": "Miniature Pinscher",
+    "temperament": "Clever, Extrovertido, Amistoso, Enérgico,  Responsive, Juguetón"
+  },
+  {
+    "id": 168,
+    "name": "Miniature Schnauzer",
+    "temperament": "Fearless, Amistoso, Vivaz, Alerta, Obediente, Inteligente"
+  },
+  {
+    "id": 171,
+    "name": "Newfoundland",
+    "temperament": "De buen carácter, Gentil, Adiestrable"
+  },
+  {
+    "id": 172,
+    "name": "Norfolk Terrier",
+    "temperament": "Self-confidence,  Fearless, Vivaz,  Companionable, Feliz,  Lovable"
+  },
+  {
+    "id": 176,
+    "name": "Norwich Terrier",
+    "temperament": "Hardy, Cariñoso, Enérgico, Sensible, Inteligente"
+  },
+  {
+    "id": 177,
+    "name": "Nova Scotia Duck Tolling Retriever",
+    "temperament": "Extrovertido, Alerta, Paciente, Inteligente,  Loving"
+  },
+  {
+    "id": 178,
+    "name": "Old English Sheepdog",
+    "temperament": "Sociable,  Bubbly, Juguetón, Adaptable, Inteligente,  Loving"
+  },
+  {
+    "id": 179,
+    "name": "Olde English Bulldogge",
+    "temperament": "Amistoso, Alerta, Confiado,  Loving, Valiente,  Strong"
+  },
+  {
+    "id": 181,
+    "name": "Papillon",
+    "temperament": "Hardy, Amistoso, Enérgico, Alerta, Inteligente, Feliz"
+  },
+  {
+    "id": 183,
+    "name": "Pekingese",
+    "temperament": "Opinionated,  Good-natured, Testarudo, Cariñoso,  Aggressive, Inteligente"
+  },
+  {
+    "id": 184,
+    "name": "Pembroke Welsh Corgi",
+    "temperament": "Tenacious, Extrovertido, Amistoso, Atrevido, Juguetón, Protector"
+  },
+  {
+    "id": 185,
+    "name": "Perro de Presa Canario",
+    "temperament": "Strong Willed,  Suspicious, Gentil,  Dominant, Tranquilo"
+  },
+  {
+    "id": 188,
+    "name": "Pharaoh Hound",
+    "temperament": "Cariñoso,  Sociable, Juguetón, Inteligente, Activo, Adiestrable"
+  },
+  {
+    "id": 189,
+    "name": "Plott",
+    "temperament": "Atrevido, Alerta, Leal, Inteligente"
+  },
+  {
+    "id": 193,
+    "name": "Pomeranian",
+    "temperament": "Extroverted, Amistoso,  Sociable, Juguetón, Inteligente, Activo"
+  },
+  {
+    "id": 196,
+    "name": "Poodle (Miniature)"
+  },
+  {
+    "id": 197,
+    "name": "Poodle (Toy)"
+  },
+  {
+    "id": 201,
+    "name": "Pug",
+    "temperament": "Docile,  Clever,  Charming, Testarudo,  Sociable, Juguetón, Callado,  Attentive"
+  },
+  {
+    "id": 204,
+    "name": "Puli",
+    "temperament": "Enérgico,  Agile, Leal, Obediente, Inteligente, Fiel"
+  },
+  {
+    "id": 205,
+    "name": "Pumi",
+    "temperament": "Animado, Reservado, Inteligente, Activo, Protector,  Vocal"
+  },
+  {
+    "id": 207,
+    "name": "Rat Terrier",
+    "temperament": "Cariñoso, Animado,  Inquisitive, Alerta, Inteligente,  Loving"
+  },
+  {
+    "id": 208,
+    "name": "Redbone Coonhound",
+    "temperament": "Cariñoso, Enérgico, Independiente,  Companionable,  Familial,  Unflappable"
+  },
+  {
+    "id": 209,
+    "name": "Rhodesian Ridgeback",
+    "temperament": "Strong Willed,  Mischievous, Leal, Digno, Sensible, Inteligente"
+  },
+  {
+    "id": 210,
+    "name": "Rottweiler",
+    "temperament": "Steady,  Good-natured,  Fearless,  Devoted, Alerta, Obediente, Confiado,  Self-assured, Tranquilo, Valiente"
+  },
+  {
+    "id": 211,
+    "name": "Russian Toy"
+  },
+  {
+    "id": 212,
+    "name": "Saint Bernard",
+    "temperament": "Amistoso, Animado, Gentil,  Watchful, Tranquilo"
+  },
+  {
+    "id": 213,
+    "name": "Saluki",
+    "temperament": "Distante, Reservado, Inteligente, Callado"
+  },
+  {
+    "id": 214,
+    "name": "Samoyed",
+    "temperament": "Testarudo, Amistoso,  Sociable, Animado, Alerta, Juguetón"
+  },
+  {
+    "id": 216,
+    "name": "Schipperke",
+    "temperament": "Fearless,  Agile, Curioso, Independiente, Confiado, Fiel"
+  },
+  {
+    "id": 218,
+    "name": "Scottish Deerhound",
+    "temperament": "Docile, Amistoso, Digno, Gentil"
+  },
+  {
+    "id": 219,
+    "name": "Scottish Terrier",
+    "temperament": "Feisty, Alerta, Independiente, Juguetón,  Quick,  Self-assured"
+  },
+  {
+    "id": 221,
+    "name": "Shetland Sheepdog",
+    "temperament": "Cariñoso, Animado,  Responsive, Alerta, Leal, Reservado, Juguetón, Gentil, Inteligente, Activo, Adiestrable,  Strong"
+  },
+  {
+    "id": 222,
+    "name": "Shiba Inu",
+    "temperament": "Charming,  Fearless,  Keen, Alerta, Confiado, Fiel"
+  },
+  {
+    "id": 223,
+    "name": "Shih Tzu",
+    "temperament": "Clever,  Spunky, Extrovertido, Amistoso, Cariñoso, Animado, Alerta, Leal, Independiente, Juguetón, Gentil, Inteligente, Feliz, Activo, Valiente"
+  },
+  {
+    "id": 225,
+    "name": "Shiloh Shepherd",
+    "temperament": "Extrovertido, Leal,  Companionable, Gentil,  Loving, Adiestrable"
+  },
+  {
+    "id": 226,
+    "name": "Siberian Husky",
+    "temperament": "Extrovertido, Amistoso, Alerta, Gentil, Inteligente"
+  },
+  {
+    "id": 228,
+    "name": "Silky Terrier",
+    "temperament": "Amistoso,  Responsive,  Inquisitive, Alerta,  Quick,  Joyful"
+  },
+  {
+    "id": 232,
+    "name": "Smooth Fox Terrier",
+    "temperament": "Fearless, Cariñoso, Alerta, Juguetón, Inteligente, Activo"
+  },
+  {
+    "id": 233,
+    "name": "Soft Coated Wheaten Terrier",
+    "temperament": "Cariñoso, Vivaz, Enérgico, Juguetón, Inteligente, Fiel"
+  },
+  {
+    "id": 235,
+    "name": "Spanish Water Dog",
+    "temperament": "Adiestrable,  Diligent, Cariñoso, Leal,  Athletic, Inteligente"
+  },
+  {
+    "id": 236,
+    "name": "Spinone Italiano",
+    "temperament": "Docile, Amistoso, Cariñoso, Leal, Paciente, Gentil"
+  },
+  {
+    "id": 238,
+    "name": "Staffordshire Bull Terrier",
+    "temperament": "Reliable,  Fearless, Atrevido, Cariñoso, Leal, Inteligente, Valiente"
+  },
+  {
+    "id": 239,
+    "name": "Standard Schnauzer",
+    "temperament": "Adiestrable,  Good-natured,  Devoted, Animado, Juguetón, Inteligente"
+  },
+  {
+    "id": 242,
+    "name": "Swedish Vallhund",
+    "temperament": "Fearless, Amistoso, Enérgico, Alerta, Inteligente,  Watchful"
+  },
+  {
+    "id": 243,
+    "name": "Thai Ridgeback",
+    "temperament": "Protector, Leal, Independiente, Inteligente,  Loving,  Familial"
+  },
+  {
+    "id": 244,
+    "name": "Tibetan Mastiff",
+    "temperament": "Strong Willed,  Tenacious, Distante, Testarudo, Inteligente, Protector"
+  },
+  {
+    "id": 245,
+    "name": "Tibetan Spaniel",
+    "temperament": "Willful, Distante,  Assertive, Independiente, Juguetón, Inteligente, Feliz"
+  },
+  {
+    "id": 246,
+    "name": "Tibetan Terrier",
+    "temperament": "Cariñoso, Enérgico,  Amiable, Reservado, Gentil, Sensible"
+  },
+  {
+    "id": 248,
+    "name": "Toy Fox Terrier",
+    "temperament": "Amistoso, Vivaz, Alerta, Leal, Juguetón, Inteligente"
+  },
+  {
+    "id": 250,
+    "name": "Treeing Walker Coonhound",
+    "temperament": "Clever, Cariñoso, Confiado, Inteligente,  Loving, Adiestrable"
+  },
+  {
+    "id": 251,
+    "name": "Vizsla",
+    "temperament": "Cariñoso, Enérgico, Leal, Gentil, Callado"
+  },
+  {
+    "id": 253,
+    "name": "Weimaraner",
+    "temperament": "Steady, Distante, Testarudo, Enérgico, Alerta, Inteligente,  Powerful,  Fast"
+  },
+  {
+    "id": 254,
+    "name": "Welsh Springer Spaniel",
+    "temperament": "Testarudo, Amistoso, Cariñoso, Leal, Juguetón, Activo"
+  },
+  {
+    "id": 256,
+    "name": "West Highland White Terrier",
+    "temperament": "Hardy, Amistoso, Alerta, Independiente,  Gay, Activo, Valiente"
+  },
+  {
+    "id": 257,
+    "name": "Whippet",
+    "temperament": "Amistoso, Cariñoso, Animado, Gentil, Inteligente, Callado"
+  },
+  {
+    "id": 258,
+    "name": "White Shepherd",
+    "temperament": "Self-confidence, Distante,  Fearless, Alerta,  Companionable,  Eager"
+  },
+  {
+    "id": 259,
+    "name": "Wire Fox Terrier",
+    "temperament": "Fearless, Amistoso, Atrevido,  Keen, Alerta,  Quick"
+  },
+  {
+    "id": 260,
+    "name": "Wirehaired Pointing Griffon",
+    "temperament": "Leal, Gentil,  Vigilant, Adiestrable,  Proud"
+  },
+  {
+    "id": 261,
+    "name": "Wirehaired Vizsla"
+  },
+  {
+    "id": 262,
+    "name": "Xoloitzcuintli",
+    "temperament": "Alegre, Alerta,  Companionable, Inteligente, Protector, Tranquilo"
+  },
+  {
+    "id": 264,
+    "name": "Yorkshire Terrier",
+    "temperament": "Atrevido, Independiente, Confiado, Inteligente, Valiente"
+  }
+]

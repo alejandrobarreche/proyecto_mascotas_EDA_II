@@ -1,0 +1,337 @@
+[
+  {
+    "id": "abys",
+    "name": "Abyssinian",
+    "temperament": "Activo, Enérgico, Independiente, Inteligente, Gentil"
+  },
+  {
+    "id": "aege",
+    "name": "Aegean",
+    "temperament": "Cariñoso, Sociable, Inteligente, Juguetón, Activo"
+  },
+  {
+    "id": "abob",
+    "name": "American Bobtail",
+    "temperament": "Inteligente, Interactivo, Animado, Juguetón, Sensible"
+  },
+  {
+    "id": "acur",
+    "name": "American Curl",
+    "temperament": "Cariñoso, Curioso, Inteligente, Interactivo, Animado, Juguetón, Sociable"
+  },
+  {
+    "id": "asho",
+    "name": "American Shorthair",
+    "temperament": "Activo, Curioso, Tranquilo, Juguetón, Calmado"
+  },
+  {
+    "id": "awir",
+    "name": "American Wirehair",
+    "temperament": "Cariñoso, Curioso, Gentil, Inteligente, Interactivo, Animado, Leal, Juguetón,  Sensible, Sociable"
+  },
+  {
+    "id": "amau",
+    "name": "Arabian Mau",
+    "temperament": "Cariñoso, Ágil, Curioso, Independiente, Juguetón, Leal"
+  },
+  {
+    "id": "amis",
+    "name": "Australian Mist",
+    "temperament": "Animado, Sociable, Amante de la diversión, Relajado, Cariñoso"
+  },
+  {
+    "id": "bali",
+    "name": "Balinese",
+    "temperament": "Cariñoso, Inteligente, Juguetón"
+  },
+  {
+    "id": "bamb",
+    "name": "Bambino",
+    "temperament": "Cariñoso, Animado, Amistoso, Inteligente"
+  },
+  {
+    "id": "beng",
+    "name": "Bengal",
+    "temperament": "Alert, Ágil, Enérgico, Exigente, Inteligente"
+  },
+  {
+    "id": "birm",
+    "name": "Birman",
+    "temperament": "Cariñoso, Activo, Gentil, Sociable"
+  },
+  {
+    "id": "bomb",
+    "name": "Bombay",
+    "temperament": "Cariñoso, Dependiente, Gentil, Inteligente, Juguetón"
+  },
+  {
+    "id": "bslo",
+    "name": "British Longhair",
+    "temperament": "Cariñoso, Tranquilo, Independiente, Inteligente, Leal, Sociable"
+  },
+  {
+    "id": "bsho",
+    "name": "British Shorthair",
+    "temperament": "Cariñoso, Tranquilo, Gentil, Leal,  Patient,  calm"
+  },
+  {
+    "id": "bure",
+    "name": "Burmese",
+    "temperament": "Curioso, Inteligente, Gentil, Sociable, Interactivo, Juguetón, Animado"
+  },
+  {
+    "id": "buri",
+    "name": "Burmilla",
+    "temperament": "Tranquilo, Amistoso, Inteligente, Animado, Juguetón, Sociable"
+  },
+  {
+    "id": "cspa",
+    "name": "California Spangled",
+    "temperament": "Cariñoso, Curioso, Inteligente, Leal, Sociable"
+  },
+  {
+    "id": "ctif",
+    "name": "Chantilly-Tiffany",
+    "temperament": "Cariñoso, Exigente, Interactivo, Leal"
+  },
+  {
+    "id": "char",
+    "name": "Chartreux",
+    "temperament": "Cariñoso, Leal, Inteligente, Sociable, Animado, Juguetón"
+  },
+  {
+    "id": "chau",
+    "name": "Chausie",
+    "temperament": "Cariñoso, Inteligente, Juguetón, Sociable"
+  },
+  {
+    "id": "chee",
+    "name": "Cheetoh",
+    "temperament": "Cariñoso, Gentil, Inteligente, Sociable"
+  },
+  {
+    "id": "csho",
+    "name": "Colorpoint Shorthair",
+    "temperament": "Cariñoso, Inteligente, Juguetón, Sociable"
+  },
+  {
+    "id": "crex",
+    "name": "Cornish Rex",
+    "temperament": "Cariñoso, Inteligente, Activo, Curioso, Juguetón"
+  },
+  {
+    "id": "cymr",
+    "name": "Cymric",
+    "temperament": "Gentil, Leal, Inteligente, Juguetón"
+  },
+  {
+    "id": "cypr",
+    "name": "Cyprus",
+    "temperament": "Cariñoso, Sociable"
+  },
+  {
+    "id": "drex",
+    "name": "Devon Rex",
+    "temperament": "Highly interactive, Travieso, Leal, Sociable, Juguetón"
+  },
+  {
+    "id": "dons",
+    "name": "Donskoy",
+    "temperament": "Juguetón,  affectionate,  loyal,  social"
+  },
+  {
+    "id": "lihu",
+    "name": "Dragon Li",
+    "temperament": "Inteligente, Amistoso, Gentil, Amoroso, Leal"
+  },
+  {
+    "id": "emau",
+    "name": "Egyptian Mau",
+    "temperament": "Ágil, Dependiente, Gentil, Inteligente, Animado, Leal, Juguetón"
+  },
+  {
+    "id": "ebur",
+    "name": "European Burmese",
+    "temperament": "Dulce, Cariñoso, Leal"
+  },
+  {
+    "id": "esho",
+    "name": "Exotic Shorthair",
+    "temperament": "Cariñoso, Dulce, Leal, Callado,  Peaceful"
+  },
+  {
+    "id": "hbro",
+    "name": "Havana Brown",
+    "temperament": "Cariñoso, Curioso, Exigente, Amistoso, Inteligente, Juguetón"
+  },
+  {
+    "id": "hima",
+    "name": "Himalayan",
+    "temperament": "Dependiente, Gentil, Inteligente, Callado, Sociable"
+  },
+  {
+    "id": "jbob",
+    "name": "Japanese Bobtail",
+    "temperament": "Activo, Ágil, Ingenioso, Tranquilo, Inteligente, Animado, Leal, Juguetón, Sociable"
+  },
+  {
+    "id": "java",
+    "name": "Javanese",
+    "temperament": "Activo,  Devoted, Inteligente, Juguetón"
+  },
+  {
+    "id": "khao",
+    "name": "Khao Manee",
+    "temperament": "Calmado, Relajado, Hablador, Juguetón,  Warm"
+  },
+  {
+    "id": "kora",
+    "name": "Korat",
+    "temperament": "Activo, Leal,  highly intelligent, Expresivo, Adiestrable"
+  },
+  {
+    "id": "kuri",
+    "name": "Kurilian",
+    "temperament": "Independiente,  highly intelligent,  clever,  inquisitive,  sociable,  playful,  trainable"
+  },
+  {
+    "id": "lape",
+    "name": "LaPerm",
+    "temperament": "Cariñoso, Amistoso, Gentil, Inteligente, Juguetón, Callado"
+  },
+  {
+    "id": "mcoo",
+    "name": "Maine Coon",
+    "temperament": "Adaptable, Inteligente, Amoroso, Gentil, Independiente"
+  },
+  {
+    "id": "mala",
+    "name": "Malayan",
+    "temperament": "Cariñoso, Interactivo, Juguetón, Sociable"
+  },
+  {
+    "id": "manx",
+    "name": "Manx",
+    "temperament": "Tranquilo, Inteligente, Leal, Juguetón, Sociable"
+  },
+  {
+    "id": "munc",
+    "name": "Munchkin",
+    "temperament": "Ágil, Tranquilo, Inteligente, Juguetón"
+  },
+  {
+    "id": "nebe",
+    "name": "Nebelung",
+    "temperament": "Gentil, Callado, Tímido, Juguetón"
+  },
+  {
+    "id": "norw",
+    "name": "Norwegian Forest Cat",
+    "temperament": "Dulce, Activo, Inteligente, Sociable, Juguetón, Animado, Curioso"
+  },
+  {
+    "id": "ocic",
+    "name": "Ocicat",
+    "temperament": "Activo, Ágil, Curioso, Exigente, Amistoso, Gentil, Animado, Juguetón, Sociable"
+  },
+  {
+    "id": "orie",
+    "name": "Oriental",
+    "temperament": "Enérgico, Cariñoso, Inteligente, Sociable, Juguetón, Curioso"
+  },
+  {
+    "id": "pers",
+    "name": "Persian",
+    "temperament": "Cariñoso,  loyal, Apacible, Callado"
+  },
+  {
+    "id": "pixi",
+    "name": "Pixie-bob",
+    "temperament": "Cariñoso, Sociable, Inteligente, Leal"
+  },
+  {
+    "id": "raga",
+    "name": "Ragamuffin",
+    "temperament": "Cariñoso, Amistoso, Gentil, Calmado"
+  },
+  {
+    "id": "ragd",
+    "name": "Ragdoll",
+    "temperament": "Cariñoso, Amistoso, Gentil, Callado,  Easygoing"
+  },
+  {
+    "id": "rblu",
+    "name": "Russian Blue",
+    "temperament": "Activo, Dependiente, Tranquilo, Gentil, Inteligente, Leal, Juguetón, Callado"
+  },
+  {
+    "id": "sava",
+    "name": "Savannah",
+    "temperament": "Curioso, Sociable, Inteligente, Leal, Extrovertido, Aventurero, Cariñoso"
+  },
+  {
+    "id": "sfol",
+    "name": "Scottish Fold",
+    "temperament": "Cariñoso, Inteligente, Leal, Juguetón, Sociable, Dulce, Amoroso"
+  },
+  {
+    "id": "srex",
+    "name": "Selkirk Rex",
+    "temperament": "Activo, Cariñoso, Dependiente, Gentil,  Patient, Juguetón, Callado, Sociable"
+  },
+  {
+    "id": "siam",
+    "name": "Siamese",
+    "temperament": "Activo, Ágil, Ingenioso,  Sociable, Amoroso, Enérgico"
+  },
+  {
+    "id": "sibe",
+    "name": "Siberian",
+    "temperament": "Curioso, Inteligente, Leal, Dulce, Ágil, Juguetón, Cariñoso"
+  },
+  {
+    "id": "sing",
+    "name": "Singapura",
+    "temperament": "Cariñoso, Curioso, Tranquilo, Inteligente, Interactivo, Animado, Leal"
+  },
+  {
+    "id": "snow",
+    "name": "Snowshoe",
+    "temperament": "Cariñoso, Sociable, Inteligente,  Sweet-tempered"
+  },
+  {
+    "id": "soma",
+    "name": "Somali",
+    "temperament": "Travieso,  Tenacious, Inteligente, Cariñoso, Gentil, Interactivo, Leal"
+  },
+  {
+    "id": "sphy",
+    "name": "Sphynx",
+    "temperament": "Leal,  Inquisitive, Amistoso, Callado, Gentil"
+  },
+  {
+    "id": "tonk",
+    "name": "Tonkinese",
+    "temperament": "Curioso, Inteligente, Sociable, Animado, Extrovertido, Juguetón, Cariñoso"
+  },
+  {
+    "id": "toyg",
+    "name": "Toyger",
+    "temperament": "Juguetón, Sociable, Inteligente"
+  },
+  {
+    "id": "tang",
+    "name": "Turkish Angora",
+    "temperament": "Cariñoso, Ágil, Ingenioso, Gentil, Inteligente, Juguetón, Sociable"
+  },
+  {
+    "id": "tvan",
+    "name": "Turkish Van",
+    "temperament": "Ágil, Inteligente, Leal, Juguetón, Enérgico"
+  },
+  {
+    "id": "ycho",
+    "name": "York Chocolate",
+    "temperament": "Juguetón, Sociable, Inteligente, Curioso, Amistoso"
+  }
+]

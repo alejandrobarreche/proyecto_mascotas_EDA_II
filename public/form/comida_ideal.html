@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alimenta a tus mascotas</title>
+    <link rel="icon" href="../images/icon/jack.png" type="image/png">
+    <link rel="stylesheet" href="../../src/css/comida_ideal/comida_ideal_v2/comida_ideal_v2.css">
+    <link rel="stylesheet" href="../../src/css/comida_ideal/comida_ideal_v2/header.css">
+    <link rel="stylesheet" href="../../src/css/comida_ideal/comida_ideal_v2/main.css">
+    <link rel="stylesheet" href="../../src/css/comida_ideal/comida_ideal_v2/footer.css">
+    <link rel="stylesheet" href="../../src/css/comida_ideal/comida_ideal_v2/recomendaciones.css">
+</head>
+<body>
+<header>
+    <img src="../images/decoratives/dogfootprint.png" alt="Icono de perro" class="icono-perro">
+    <div>
+        <h1>Encuentra la mejor alimentación para tu mascota</h1>
+    </div>
+
+    <img src="../images/decoratives/animalinheart.png" alt="Icono de gato" class="icono-gato">
+</header>
+
+<main>
+    <div>
+        <h1 id="species-display"></h1> <!-- Texto para la especie seleccionada -->
+    </div>
+    <!-- Sección de formulario -->
+    <section id="pet-form">
+        <h2>Rellena el formulario!</h2>
+        <form id="mascotaForm">
+            <!-- Selección de especie (deshabilitada para prevenir edición) -->
+            <div>
+                <label for="breed">Raza:</label>
+                <input type="text" id="breed" name="breed" list="breed-list" required>
+                <datalist id="breed-list">
+                    <option value=""></option>
+                </datalist>
+            </div>
+
+            <div>
+                <label for="weight">Peso (kg):</label>
+                <input type="number" id="weight" name="weight" required>
+            </div>
+
+            <div>
+                <label for="activity">Nivel de actividad:</label>
+                <input type="range" id="activity" name="activity" min="0" max="10" value="0">
+                <span id="activity-label"></span>
+            </div>
+
+            <!-- Segunda columna -->
+            <div>
+                <label for="age">Edad (años):</label>
+                <input type="number" id="age" name="age" required>
+            </div>
+
+            <div>
+                <label for="allergies">Alergias:</label>
+                <input type="text" id="allergies" name="allergies" placeholder="Ejemplo: Pollo, trigo">
+            </div>
+
+            <div>
+                <label for="diseases">Enfermedades:</label>
+                <input type="text" id="diseases" name="diseases" placeholder="Ejemplo: Diabetes">
+            </div>
+
+            <button type="submit">Gererar recomendación</button>
+        </form>
+    </section>
+
+    <!-- Sección de recomendaciones -->
+    <section id="recommendations" style="position: relative; display: flex; justify-content: space-between; align-items: center;">
+        <h2 style="margin: 0;">Recomendaciones para tu mascota</h2>
+        <button onclick="location.href='recomendaciones.html'" style="
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        font-size: 1em;
+        cursor: pointer;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        transition: background-color 0.3s;
+    ">
+            Ver productos
+            <span style="font-size: 1.2em;">➔</span>
+        </button>
+    </section>
+
+</main>
+
+<footer>
+    <p>© 2024 Alimenta a tus mascotas. Todos los derechos reservados.</p>
+</footer>
+<script>
+
+</script>
+<script src="../../src/js/almacenar_datos.js"></script>
+<script src="../../src/js/comida_ideal.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+/* Reset de márgenes y padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Recommendations Section */
+#recommendations {
+    margin-top: 30px;
+}
+
+#recommendations ul {
+    list-style: none;
+    padding: 0;
+}
+
+#recommendations li {
+    padding: 15px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background: #fafafa;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
